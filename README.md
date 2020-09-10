@@ -8,6 +8,7 @@
 # Introduction
 
 This Javascript (ES6) library is for manipulating Morse code text and sound. It is the library used in the tools on [Stephen C Phillips's Morse code website](https://morsecode.scphillips.com).
+[Morse Translator](https://morsecode.world/international/translator.html)
 
 The library can:
 * Translate to and from text and Morse code (in the form of '-- --- .-. ... . / -.-. --- -.. .').
